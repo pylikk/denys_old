@@ -1,0 +1,8 @@
+
+ssquid:UselessImportCheck"QRemove this unused import 'org.springframework.transaction.annotation.Isolation'.(±§ÂÔ
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8§³—¥Î,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëî™¥Î,
+ƒsquid:UselessImportCheck"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8´—¦Î,
+zsquid:UselessImportCheck"SRemove this unused import 'org.springframework.transaction.annotation.Propagation'.(èª¡Çûÿÿÿÿ
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ëî™¥Î,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§³—¥Î,

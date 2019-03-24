@@ -1,0 +1,10 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öı–¥Î,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¶‡´Î,
+Xsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(Õüğƒüÿÿÿÿ8¶‡´Î,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×Ò÷³Î,
+Xsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(Õüğƒüÿÿÿÿ8¾õ³Î,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ú Ÿ8ïÊĞ´Î,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¶‡´Î,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÎÏˆµÎ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÎÏˆµÎ,
